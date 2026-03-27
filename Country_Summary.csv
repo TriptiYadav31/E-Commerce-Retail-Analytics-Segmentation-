@@ -1,0 +1,11 @@
+Country,Total_Revenue,Total_Orders,Unique_Customers,Avg_Order_Value,Revenue_Share_Percentage,Revenue_Rank
+United Kingdom,7285024.64,16649,3921,20.86,82,1
+Netherlands,285446.34,95,9,120.8,3.21,2
+EIRE,265262.46,260,3,36.7,2.99,3
+Germany,228678.4,457,94,25.33,2.57,4
+France,208934.31,389,87,25.09,2.35,5
+Australia,138453.81,57,9,116.94,1.56,6
+Spain,61558.56,90,30,24.82,0.69,7
+Switzerland,56443.95,51,21,30.64,0.64,8
+Belgium,41196.34,98,25,20.28,0.46,9
+Sweden,38367.83,36,8,85.26,0.43,10
